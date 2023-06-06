@@ -1,5 +1,6 @@
 ### Hi there 👋
-My name is Pedro Melo and I study Software Engineering at the Federal University of Goiás (UFG). I have been working as a front-end developer since 2022 and my goal is to become a Web Developer in the near future.    
+My name is Pedro Melo and I study Software Engineering at the Federal University of Goiás (UFG). I have been working as a front-end developer since 2022 and my goal is to become a Web Developer in the near future.  
+  
 [![Linkedin: pedromelo55](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-ivo-santana-melo/)]([https://www.linkedin.com/in/gabrielmarqso/](https://www.linkedin.com/in/pedro-ivo-santana-melo/))
 ## Technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
