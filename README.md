@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
 <!--
 **pedromelo55/pedromelo55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
